@@ -1,0 +1,6 @@
+node_modules/
+package-lock.json
+config.env
+
+router/InterviewerAI.py
+myInterviewerVenv/
